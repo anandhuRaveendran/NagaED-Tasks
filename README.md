@@ -1,3 +1,7 @@
+Name - Anandu Raveendran
+Applied for - Junior Software Developer
+Contact Number - 7907741887
+email ID - anandhuraveendrank@gmail.com
 GitRepo Link - https://github.com/anandhuRaveendran/NagaED-Tasks.git
 # ContactUs page
 ReactJs used for frontend
