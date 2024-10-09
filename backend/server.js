@@ -4,7 +4,6 @@ const cors = require('cors');
 const contact = require("./models/contact")
 const app = express();
 
-// Middleware
 app.use(cors());
 app.use(express.json());
 
@@ -39,5 +38,5 @@ app.post('/api/contact', async (req, res) => {
   }
 });
 
-// Start the server
+// 
 
